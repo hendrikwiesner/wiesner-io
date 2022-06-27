@@ -1,0 +1,4 @@
+baseURL = 'https://wiesner.io'
+languageCode = 'en-us'
+title = 'wiesner.io – UI / JAMStack'
+theme = "tale"
